@@ -1,0 +1,10 @@
+site_name: DaLi ...
+site_url: https://todo.de
+nav:
+  - Start: index.md
+  - Steckbriefe: steckbriefe.md
+  - Über uns: ueber_uns.md
+
+theme:
+    name: readthedocs
+    locale: de
