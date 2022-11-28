@@ -1,0 +1,3 @@
+
+
+- mkdocs-categories-plugin - https://pypi.org/project/mkdocs-categories-plugin/
