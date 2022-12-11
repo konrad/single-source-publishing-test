@@ -13,6 +13,9 @@ theme:
     locale: de
 
 plugins:
+    - search:
+        indexing: 'full'
+
     - categories:
         no_nav: true
         base_name: 'themen'
