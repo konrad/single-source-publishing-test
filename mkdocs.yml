@@ -11,6 +11,5 @@ theme:
     locale: de
 
 plugins:
-  - categories
-      no_nav: true
-
+    - categories:
+        no_nav: true
