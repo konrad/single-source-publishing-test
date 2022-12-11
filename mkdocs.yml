@@ -3,7 +3,12 @@ site_url: https://todo.de
 nav:
   - Start: index.md
   - Steckbriefe: steckbriefe.md
+  - Tools: tools.md
   - Über uns: ueber_uns.md
 
 theme:
+    name: mkdocs
     locale: de
+
+plugins:
+  - categories
