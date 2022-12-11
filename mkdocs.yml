@@ -9,15 +9,16 @@ nav:
   - Über diese Seite: ueber_diese_seite.md
 
 theme:
-    name: mkdocs
+    name: materials
     locale: de
 
 plugins:
     - search:
         indexing: 'full'
+        
 
-    - categories:
-        no_nav: true
-        base_name: 'themen'
-        section_title: 'Themen'
+#    - categories:
+#        no_nav: true
+#        base_name: 'themen'
+#      section_title: 'Themen'
         generate_index: true
