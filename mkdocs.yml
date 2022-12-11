@@ -9,7 +9,7 @@ nav:
   - Über diese Seite: ueber_diese_seite.md
 
 theme:
-    name: materials
+    name: material
     locale: de
 
 plugins:
