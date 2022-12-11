@@ -5,8 +5,4 @@ categories:
     - Solutions
 ---
 
-# Tools
-
-## Online
-
-## Offline
+# Data Literacy
