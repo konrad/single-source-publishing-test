@@ -1,6 +1,0 @@
-# DaLI
-
-## Hintergrund
-
-
-## Learning outcomes
