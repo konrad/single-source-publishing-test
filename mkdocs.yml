@@ -1,6 +1,7 @@
 site_name: Working Group Data Literacy 
 site_url: https://konrad.github.io/single-source-publishing-test/
 repo_url: https://github.com/konrad/single-source-publishing-test
+edit_uri: blob/main/docs/
 nav:
   - Partner-Hochschulen: partner_hochschulen.md
   - Data Literacy: data_literacy.md
@@ -8,11 +9,16 @@ nav:
   - Über diese Seite: ueber_diese_seite.md
 
 theme:
-    name: mkdocs
+    name: material
     locale: de
 
 plugins:
-    - categories:
-        no_nav: true
-        base_name: 'themen'
-        section_title: 'Themen'
+    - search:
+        indexing: 'full'
+    - tags
+        tags_file: tags.md
+#    - categories:
+#        no_nav: true
+#        base_name: 'themen'
+#      section_title: 'Themen'
+#       generate_index: true
