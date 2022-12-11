@@ -20,4 +20,4 @@ plugins:
 #        no_nav: true
 #        base_name: 'themen'
 #      section_title: 'Themen'
-        generate_index: true
+#       generate_index: true
