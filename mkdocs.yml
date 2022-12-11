@@ -6,5 +6,4 @@ nav:
   - Über uns: ueber_uns.md
 
 theme:
-    name: readthedocs
     locale: de
