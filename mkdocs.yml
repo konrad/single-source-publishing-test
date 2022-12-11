@@ -5,6 +5,7 @@ nav:
   - Steckbriefe: steckbriefe.md
   - Tools: tools.md
   - Über uns: ueber_uns.md
+  - Kategorien: categories.md
 
 theme:
     name: mkdocs
