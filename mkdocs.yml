@@ -3,9 +3,8 @@ site_url: https://konrad.github.io/single-source-publishing-test/
 nav:
   - Partner-Hochschulen: partner_hochschulen.md
   - Data Literacy: data_literacy.md
-  - Themen: categories
+  - Themen: themen
   - Über diese Seite: ueber_diese_seite.md
-
 
 theme:
     name: mkdocs
@@ -14,3 +13,5 @@ theme:
 plugins:
     - categories:
         no_nav: true
+        base_name: 'themen'
+        section_title: 'Themen'
