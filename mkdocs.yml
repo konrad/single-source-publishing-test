@@ -12,3 +12,5 @@ theme:
 
 plugins:
   - categories
+      no_nav: true
+
