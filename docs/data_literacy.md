@@ -1,8 +1,8 @@
 ---
 categories:
-    - Examples
-    - Basics
-    - Solutions
+    - Konzepte
+    - Coding
+    - FDM
 ---
 
 # Data Literacy
