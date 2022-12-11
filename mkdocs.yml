@@ -8,3 +8,6 @@ nav:
 theme:
     name: mkdocs
     locale: de
+
+plugins:
+  - categories
