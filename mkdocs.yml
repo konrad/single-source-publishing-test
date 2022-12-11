@@ -6,4 +6,5 @@ nav:
   - Über uns: ueber_uns.md
 
 theme:
+    name: mkdocs
     locale: de
