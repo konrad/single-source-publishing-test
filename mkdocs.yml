@@ -1,14 +1,16 @@
-site_name: Data Literacy ...
-site_url: https://todo.de
+site_name: Working Group Data Literacy 
+site_url: https://konrad.github.io/single-source-publishing-test/
 nav:
-  - Start: index.md
-  - Steckbriefe: steckbriefe.md
-  - Tools: tools.md
-  - Über uns: ueber_uns.md
+  - Partner-Hochschulen: partner_hochschulen.md
+  - Data Literacy: data_literacy.md
+  - Themen: categories
+  - Über diese Seite: ueber_diese_seite.md
+
 
 theme:
     name: mkdocs
     locale: de
 
 plugins:
-  - categories
+    - categories:
+        no_nav: true
