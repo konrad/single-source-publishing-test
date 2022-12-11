@@ -15,7 +15,8 @@ theme:
 plugins:
     - search:
         indexing: 'full'
-    - tags   
+    - tags
+        tags_file: tags.md
 #    - categories:
 #        no_nav: true
 #        base_name: 'themen'
