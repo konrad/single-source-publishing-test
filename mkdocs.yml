@@ -1,5 +1,6 @@
 site_name: Working Group Data Literacy 
 site_url: https://konrad.github.io/single-source-publishing-test/
+repo_url: https://github.com/konrad/single-source-publishing-test
 nav:
   - Partner-Hochschulen: partner_hochschulen.md
   - Data Literacy: data_literacy.md
