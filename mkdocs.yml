@@ -5,7 +5,7 @@ edit_uri: blob/main/docs/
 nav:
   - Partner-Hochschulen: partner_hochschulen.md
   - Data Literacy: data_literacy.md
-  - Themen: themen
+  - Tags: tags.md
   - Über diese Seite: ueber_diese_seite.md
 
 theme:
