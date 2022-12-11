@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - Konzepte
     - Coding
     - FDM
