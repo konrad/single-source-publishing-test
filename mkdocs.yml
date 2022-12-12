@@ -17,8 +17,4 @@ plugins:
         indexing: 'full'
     - tags:
         tags_file: tags.md
-#    - categories:
-#        no_nav: true
-#        base_name: 'themen'
-#      section_title: 'Themen'
-#       generate_index: true
+    - pdf-export
