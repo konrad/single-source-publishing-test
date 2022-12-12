@@ -4,4 +4,4 @@
 # Bloom taxonomy
 
 
-![Bloom taxonomy](./images/Bloom_taxonomy.svg)
+![Bloom taxonomy](./images/Bloom_taxonomy.svg){ width="300" }
